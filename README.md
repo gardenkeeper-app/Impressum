@@ -10,8 +10,7 @@ Angaben gemäß § 4 Abs. 1 Digitale-Dienste-Gesetz (DDG)
 ## 📍 Verantwortlich für den Inhalt
 
 Verantwortlich für den Inhalt nach § 4 Abs. 1 DDG:  
-Chris Ganzert  
-[DEINE ADRESSE]
+Chris Ganzert
 
 ## ⚖️ Haftungsausschluss
 
